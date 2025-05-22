@@ -1,0 +1,7 @@
+datasets/ipl_json
+.env
+app2.log
+app.log
+tempShit
+ipl_coords.py
+res.txt

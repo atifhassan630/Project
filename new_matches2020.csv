@@ -1,0 +1,61 @@
+id,city,date,team1,team2,toss_winner,toss_decision,result_type,dl_applied,winner,win_type,result_margin,player_of_match,venue
+829,Abu Dhabi,2020-09-19,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,wickets,5,AT Rayudu,Sheikh Zayed Stadium
+830,Dubai,2020-09-20,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,field,tie,0,Delhi Capitals,tie,0,MP Stoinis,Dubai International Cricket Stadium
+831,Dubai,2020-09-21,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Royal Challengers Bangalore,runs,10,YS Chahal,Dubai International Cricket Stadium
+832,Sharjah,2020-09-22,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,normal,0,Rajasthan Royals,runs,16,SV Samson,Sharjah Cricket Stadium
+833,Abu Dhabi,2020-09-23,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Mumbai Indians,runs,49,RG Sharma,Sheikh Zayed Stadium
+834,Dubai,2020-09-24,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Kings XI Punjab,runs,97,KL Rahul,Dubai International Cricket Stadium
+835,Dubai,2020-09-25,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,normal,0,Delhi Capitals,runs,44,PP Shaw,Dubai International Cricket Stadium
+836,Abu Dhabi,2020-09-26,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,normal,0,Kolkata Knight Riders,wickets,7,Shubman Gill,Sheikh Zayed Stadium
+837,Sharjah,2020-09-27,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,wickets,4,SV Samson,Sharjah Cricket Stadium
+838,Dubai,2020-09-28,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,tie,0,Royal Challengers Bangalore,tie,0,AB de Villiers,Dubai International Cricket Stadium
+839,Abu Dhabi,2020-09-29,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,normal,0,Sunrisers Hyderabad,runs,15,Rashid Khan,Sheikh Zayed Stadium
+840,Dubai,2020-09-30,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,normal,0,Kolkata Knight Riders,runs,37,Shivam Mavi,Dubai International Cricket Stadium
+841,Abu Dhabi,2020-10-01,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,normal,0,Mumbai Indians,runs,48,KA Pollard,Sheikh Zayed Stadium
+842,Dubai,2020-10-02,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,runs,7,PK Garg,Dubai International Cricket Stadium
+843,Abu Dhabi,2020-10-03,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,normal,0,Royal Challengers Bangalore,wickets,8,YS Chahal,Sheikh Zayed Stadium
+844,Sharjah,2020-10-03,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Delhi Capitals,runs,18,SS Iyer,Sharjah Cricket Stadium
+845,Dubai,2020-10-04,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,bat,normal,0,Chennai Super Kings,wickets,10,SR Watson,Dubai International Cricket Stadium
+846,Sharjah,2020-10-04,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,normal,0,Mumbai Indians,runs,34,TA Boult,Sharjah Cricket Stadium
+847,Dubai,2020-10-05,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Delhi Capitals,runs,59,AR Patel,Dubai International Cricket Stadium
+848,Abu Dhabi,2020-10-06,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,normal,0,Mumbai Indians,runs,57,SA Yadav,Sheikh Zayed Stadium
+849,Abu Dhabi,2020-10-07,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,runs,10,RA Tripathi,Sheikh Zayed Stadium
+850,Dubai,2020-10-08,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,runs,69,JM Bairstow,Dubai International Cricket Stadium
+851,Sharjah,2020-10-09,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,normal,0,Delhi Capitals,runs,46,R Ashwin,Sharjah Cricket Stadium
+852,Abu Dhabi,2020-10-10,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,runs,2,KD Karthik,Sheikh Zayed Stadium
+853,Dubai,2020-10-10,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,runs,37,V Kohli,Dubai International Cricket Stadium
+854,Dubai,2020-10-11,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,normal,0,Rajasthan Royals,wickets,5,R Tewatia,Dubai International Cricket Stadium
+855,Abu Dhabi,2020-10-11,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,normal,0,Mumbai Indians,wickets,5,Q de Kock,Sheikh Zayed Stadium
+856,Sharjah,2020-10-12,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,runs,82,AB de Villiers,Sharjah Cricket Stadium
+857,Dubai,2020-10-13,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,normal,0,Chennai Super Kings,runs,20,RA Jadeja,Dubai International Cricket Stadium
+858,Dubai,2020-10-14,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,normal,0,Delhi Capitals,runs,13,A Nortje,Dubai International Cricket Stadium
+859,Sharjah,2020-10-15,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,normal,0,Kings XI Punjab,wickets,8,KL Rahul,Sharjah Cricket Stadium
+860,Abu Dhabi,2020-10-16,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,normal,0,Mumbai Indians,wickets,8,Q de Kock,Sheikh Zayed Stadium
+861,Sharjah,2020-10-17,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,normal,0,Delhi Capitals,wickets,5,S Dhawan,Sharjah Cricket Stadium
+862,Dubai,2020-10-17,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,normal,0,Royal Challengers Bangalore,wickets,7,AB de Villiers,Dubai International Cricket Stadium
+863,Abu Dhabi,2020-10-18,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,tie,0,Kolkata Knight Riders,tie,0,LH Ferguson,Sheikh Zayed Stadium
+864,Dubai,2020-10-18,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,tie,0,Kings XI Punjab,tie,0,KL Rahul,Dubai International Cricket Stadium
+865,Abu Dhabi,2020-10-19,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,normal,0,Rajasthan Royals,wickets,7,JC Buttler,Sheikh Zayed Stadium
+866,Dubai,2020-10-20,Delhi Capitals,Kings XI Punjab,Delhi Capitals,bat,normal,0,Kings XI Punjab,wickets,5,S Dhawan,Dubai International Cricket Stadium
+867,Abu Dhabi,2020-10-21,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,normal,0,Royal Challengers Bangalore,wickets,8,Mohammed Siraj,Sheikh Zayed Stadium
+868,Dubai,2020-10-22,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,wickets,8,MK Pandey,Dubai International Cricket Stadium
+869,Sharjah,2020-10-23,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,wickets,10,TA Boult,Sharjah Cricket Stadium
+870,Abu Dhabi,2020-10-24,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,normal,0,Kolkata Knight Riders,runs,59,CV Varun,Sheikh Zayed Stadium
+871,Dubai,2020-10-24,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Kings XI Punjab,runs,12,CJ Jordan,Dubai International Cricket Stadium
+872,Abu Dhabi,2020-10-25,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,normal,0,Rajasthan Royals,wickets,8,BA Stokes,Sheikh Zayed Stadium
+873,Dubai,2020-10-25,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,normal,0,Chennai Super Kings,wickets,8,RD Gaikwad,Dubai International Cricket Stadium
+874,Sharjah,2020-10-26,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab,wickets,8,CH Gayle,Sharjah Cricket Stadium
+875,Dubai,2020-10-27,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,normal,0,Sunrisers Hyderabad,runs,88,WP Saha,Dubai International Cricket Stadium
+876,Abu Dhabi,2020-10-28,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,wickets,5,SA Yadav,Sheikh Zayed Stadium
+877,Dubai,2020-10-29,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,wickets,6,RD Gaikwad,Dubai International Cricket Stadium
+878,Abu Dhabi,2020-10-30,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,wickets,7,BA Stokes,Sheikh Zayed Stadium
+879,Sharjah,2020-10-31,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,wickets,5,Sandeep Sharma,Sharjah Cricket Stadium
+880,Dubai,2020-10-31,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,wickets,9,Ishan Kishan,Dubai International Cricket Stadium
+881,Abu Dhabi,2020-11-01,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,wickets,9,RD Gaikwad,Sheikh Zayed Stadium
+882,Dubai,2020-11-01,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,normal,0,Kolkata Knight Riders,runs,60,PJ Cummins,Dubai International Cricket Stadium
+883,Abu Dhabi,2020-11-02,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,normal,0,Delhi Capitals,wickets,6,A Nortje,Sheikh Zayed Stadium
+884,Sharjah,2020-11-03,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,wickets,10,S Nadeem,Sharjah Cricket Stadium
+885,Dubai,2020-11-05,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,normal,0,Mumbai Indians,runs,57,JJ Bumrah,Dubai International Cricket Stadium
+886,Abu Dhabi,2020-11-06,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,wickets,6,KS Williamson,Sheikh Zayed Stadium
+887,Abu Dhabi,2020-11-08,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,normal,0,Delhi Capitals,runs,17,MP Stoinis,Sheikh Zayed Stadium
+888,Dubai,2020-11-10,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,normal,0,Mumbai Indians,wickets,5,TA Boult,Dubai International Cricket Stadium
